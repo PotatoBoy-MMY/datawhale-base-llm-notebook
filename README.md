@@ -1,7 +1,7 @@
 # Datawhale的开源项目base-llm学习笔记
 
 ### [Task00-预备知识学习](Task00-预备知识学习.md)
-### [Task01-注意力机制与 Transformer](Task01-注意力机制与 Transformer.md)
+### [Task01-注意力机制与Transformer](Task01-注意力机制与 Transformer.md)
 ### [Task02-预训练模型](Task02-预训练模型.md)
 ### [Task03-深入大模型架构](Task03=深入大模型架构.md)
 ### [Task04-参数高效微调](Task04-参数高效微调.md)
