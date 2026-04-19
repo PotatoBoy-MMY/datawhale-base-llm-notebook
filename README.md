@@ -8,9 +8,13 @@
 参考资料：
 - [第1章：NLP简介](https://github.com/datawhalechina/base-llm/tree/main/docs/chapter1)
 - [第2章：文本表示与词向量](https://github.com/datawhalechina/base-llm/tree/main/docs/chapter2)
-- [第3章：循环神经网络](https://github.com/datawhalechina/base-llm/blob/main/docs/chapter3/08_RNN.md)
+- [第3章：循环神经网络](https://github.com/datawhalechina/base-llm/blob/main/docs/chapter3)
 
 ## [Task01-注意力机制与Transformer](Task01-注意力机制与Transformer.md)
+参考资料：
+- [第4章：注意力机制与Transformer](https://github.com/datawhalechina/base-llm/blob/main/docs/chapter4)  
+
+
 ## [Task02-预训练模型](Task02-预训练模型.md)
 ## [Task03-深入大模型架构](Task03=深入大模型架构.md)
 ## [Task04-参数高效微调](Task04-参数高效微调.md)
