@@ -16,6 +16,10 @@
 
 
 ## [Task02-预训练模型](Task02-预训练模型.md)
+参考资料：
+- [第5章：预训练模型](https://github.com/datawhalechina/base-llm/blob/main/docs/chapter5)
+
+ 
 ## [Task03-深入大模型架构](Task03=深入大模型架构.md)
 ## [Task04-参数高效微调](Task04-参数高效微调.md)
 ## [Task05-高级微调技术](Task05-高级微调技术.md)
